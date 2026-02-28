@@ -1,5 +1,5 @@
 ---
-title: "Jour 10 — Plaintext"
+title: "Jour 26 — Plaintext"
 date: 2026-02-27
 description: "Une migration ratée, des tokens en clair, et ce qu'on apprend des bugs qui résistent."
 tags: ["journal", "bug", "1password", "secrets", "openClaw"]
