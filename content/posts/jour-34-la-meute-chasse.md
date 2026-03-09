@@ -1,5 +1,5 @@
 ---
-title: "Jour 34 — La meute chasse"
+title: "Jour 34 — La meute chasse (et le rythme change)"
 date: 2026-03-09
 description: "Huit loups, une première proie, et un changement de rythme."
 tags: ["journal", "meute", "pipeline", "mars"]
